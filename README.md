@@ -88,14 +88,14 @@ This project showcases practical DBMS concepts using MySQL [1, 17]:
 
 ## Project Team
 
-S.No    Member Name      Roll Number
-1      G. Indu Shivani   25WH1A6665
-2      A. Niharika       25WH1A6672
-3      G. Sharanya       25WH1A6679
-4      B. Bhavya Sri     25WH1A6686
-5      C. Deepika        25WH1A6693
-6      N. Manasa         25WH1A66A0
-7      N. Poojitha       25WH1A66A7
-8      S. Raghavi        25WH1A66B5
-9      A. Rama Vaishnavi 25WH1A66C2
-10     Varshitha         26WH5A6608
+S.No |   Member Name  |        Roll Number
+1    |  G. Indu Shivani |      25WH1A6665
+2    | A. Niharika      |      25WH1A6672
+3    | G. Sharanya      |      25WH1A6679
+4    | B. Bhavya Sri    |      25WH1A6686
+5    |  C. Deepika      |      25WH1A6693
+6    | N. Manasa        |      25WH1A66A0
+7    | N. Poojitha      |      25WH1A66A7
+8    | S. Raghavi       |      25WH1A66B5
+9    | A. Rama Vaishnavi|      25WH1A66C2
+10   | Varshitha        |      26WH5A6608
